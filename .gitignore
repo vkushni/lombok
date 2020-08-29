@@ -9,9 +9,9 @@
 /ssh.configuration
 /findbugsReport.html
 /lib
-/.settings
-/.project
-/.classpath
+**/*.classpath
+**/*.project
+**/*.settings
 /.factorypath
 /lombok.iml
 /.idea
